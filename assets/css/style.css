@@ -233,8 +233,7 @@ a:focus {
 #service {
 	margin-top: 100px;
 	margin-bottom: 80px;
-	min-height: 750px;
-}
+r}
 
 #service i {
 	color: #ffffff;
@@ -248,7 +247,11 @@ a:focus {
 	margin-bottom: 60px;
 	display: block;
 	text-align: center;
-;}
+	padding:10px;
+}
+#portfoliowrap h3{
+	background-color:yellow;
+}
 
 #lifecodewrap {
 	padding-top: 60px;
@@ -262,6 +265,28 @@ a:focus {
 #lifecodewrap h1{
 
 	padding-top:10px;
+}
+
+#technologywrap {
+	padding-top: 60px;
+	margin-bottom: 60px;
+	display: block;
+	text-align: center;
+	height: 250px;
+}
+
+#technologywrap h1{
+
+	padding-top:10px;
+}
+
+#tech h{
+	padding-top: 60px;
+	margin-bottom: 60px;
+	display: block;
+	text-align: center;
+	background-color: yellow;
+	height: 250px;
 }
 
 #portfoliowrap h3 {
