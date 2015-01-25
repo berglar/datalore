@@ -86,7 +86,7 @@ a:focus {
 	BOOTSTRAP MODIFICATIONS & TWEAKS
 ################################################################# */
 .navbar {
-	min-height: 70px;
+	min-height: 80px;
 	padding-top: 10px;
 	margin-bottom: 0px;
 }
@@ -102,6 +102,7 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a {
+	font-family: 'Andale Mono', AndaleMono, monospace;
 	color: #1E1E1E;
 	font-weight: 700;
 	font-size: 12px; 
@@ -208,7 +209,7 @@ a:focus {
 
 #headerwrap {
 	background-color: #1E1E1E;
-	min-height: 550px;
+	min-height: 750px;
 	padding-top: 100px;
 	padding-bottom: 0px;
 	text-align: center;
@@ -232,10 +233,11 @@ a:focus {
 #service {
 	margin-top: 100px;
 	margin-bottom: 80px;
+	min-height: 750px;
 }
 
 #service i {
-	color: #00b3fe;
+	color: #ffffff;
 	font-size: 60px;
 	padding: 15px;
 }
@@ -246,6 +248,14 @@ a:focus {
 	margin-bottom: 60px;
 	display: block;
 	text-align: center
+}
+
+#lifecodewrap {
+	padding-top: 60px;
+	margin-bottom: 60px;
+	display: block;
+	text-align: center
+	background-color: yellow;
 }
 
 #portfoliowrap h3 {
@@ -290,7 +300,7 @@ a:focus {
 
 /* Testimonials Wrap */
 #twrap {
-	background: url(../img/t-back.jpg) no-repeat center top;
+	background: no-repeat center top;
 	margin-top: 0px;
 	padding-top:60px;
 	text-align:center;
