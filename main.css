@@ -1,0 +1,18 @@
+body{
+    background-color: #333333;
+    color: #e2e2e2;
+    font-family: 'Inconsolata', Arial, serif;
+    font-family: 'PT Mono', Arial, serif;
+}
+
+#dnaBlock{
+  position: absolute;
+  width: 980px;
+  height: 980px;
+  color: #efefef;
+}
+
+.highlight {
+  fill: red;
+  font-weight: bold;
+}
