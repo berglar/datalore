@@ -249,9 +249,6 @@ r}
 	text-align: center;
 	padding:10px;
 }
-#portfoliowrap h3{
-	background-color:yellow;
-}
 
 #lifecodewrap {
 	padding-top: 60px;
@@ -353,12 +350,12 @@ r}
 
 #twrap i {
 	font-size: 50px;
-	color: white;
+	color: #1E1E1E;
 	margin-bottom: 25px;
 }
 
 #twrap p {
-	color: white;
+	color: #1E1E1E;;
 	font-size: 15px;
 	line-height: 30px;
 }
