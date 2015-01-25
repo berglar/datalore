@@ -247,15 +247,21 @@ a:focus {
 	padding-top: 60px;
 	margin-bottom: 60px;
 	display: block;
-	text-align: center
-}
+	text-align: center;
+;}
 
 #lifecodewrap {
 	padding-top: 60px;
 	margin-bottom: 60px;
 	display: block;
-	text-align: center
+	text-align: center;
 	background-color: yellow;
+	height: 250px;
+}
+
+#lifecodewrap h1{
+
+	padding-top:10px;
 }
 
 #portfoliowrap h3 {
