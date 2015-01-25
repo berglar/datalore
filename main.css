@@ -12,6 +12,10 @@ body{
   color: #efefef;
 }
 
+#svg_text_wall{
+  
+}
+
 .highlight {
   fill: red;
   font-weight: bold;
