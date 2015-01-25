@@ -7,9 +7,11 @@
 
 #dnaBlock{
   position: absolute;
+  /*
   width: 980px;
   height: 980px;
   color: #efefef;
+  */
 }
 
 #svg_text_wall svg{
