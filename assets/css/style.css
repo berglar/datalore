@@ -249,9 +249,6 @@ r}
 	text-align: center;
 	padding:10px;
 }
-#portfoliowrap h3{
-	background-color:yellow;
-}
 
 #lifecodewrap {
 	padding-top: 60px;
@@ -353,12 +350,12 @@ r}
 
 #twrap i {
 	font-size: 50px;
-	color: white;
+	color: #1E1E1E;
 	margin-bottom: 25px;
 }
 
 #twrap p {
-	color: white;
+	color: #1E1E1E;;
 	font-size: 15px;
 	line-height: 30px;
 }
@@ -379,11 +376,11 @@ r}
 #footerwrap {
 	padding-top: 60px;
 	padding-bottom: 60px;
-	background: #384452;
+	background: #ffffff;
 }
 
 #footerwrap p {
-	color: #bfc9d3;
+	color: #1E1E1E;
 }
 
 #footerwrap h4 {
@@ -392,12 +389,12 @@ r}
 
 #footerwrap i {
 	font-size: 30px;
-	color: #bfc9d3;
+	color: #1E1E1E;
 	padding-right: 25px;
 }
 
 #footerwrap i:hover {
-	color: #00b3fe
+	color: #1E1E1E
 }
 
 /*	################################################################
