@@ -19,11 +19,33 @@
   text-align: center;
 }
 
-#containerInput{
+#exStringMatch svg{
+  fill: white;
+  text-size: 48;
   height: 500px;
-  background-image: url("assets/img/dna_bg.png");
+  background-color: black;
+}
+
+#containerInput{
+  height: 200px;
+  background-image: url("assets/img/dna_bg.jpg");
   background-color: #000000;
   background-repeate: none;
+}
+
+
+#svg_sample_container{
+  position: absolute;
+  z-index: 1000;
+  background-color: #4A4A4A;
+  opacity: 0.75;
+  width: 500px;
+  height: 500px;
+
+}
+
+#svg_sample_container svg{
+  color: white;
 }
 
 #svg_text_wall{
@@ -36,7 +58,11 @@
 
 }
 
+tspan{
+  fill: #F80554;
+}
+
 .highlight {
-  fill: red;
+  fill: #F80554;
   font-weight: bold;
 }
