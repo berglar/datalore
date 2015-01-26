@@ -15,6 +15,17 @@
   */
 }
 
+#exStringMatch{
+  text-align: center;
+}
+
+#containerInput{
+  height: 500px;
+  background-image: url("assets/img/dna_bg.png");
+  background-color: #000000;
+  background-repeate: none;
+}
+
 #svg_text_wall{
   padding-top: 220px;
   background-color: #acacac;
