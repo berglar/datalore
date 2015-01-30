@@ -376,15 +376,17 @@ r}
 #footerwrap {
 	padding-top: 60px;
 	padding-bottom: 60px;
-	background: #ffffff;
+	background: #1E1E1E;
 }
 
 #footerwrap p {
-	color: #1E1E1E;
+	color: #ffffff;
+	padding-bottom: 30px;
 }
 
 #footerwrap h4 {
 	color: white;
+	padding-bottom: 20px;
 }
 
 #footerwrap i {
