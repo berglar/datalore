@@ -66,3 +66,11 @@ tspan{
   fill: #F80554;
   font-weight: bold;
 }
+
+#dna {
+    word-wrap: break-word;
+}
+
+.matched {
+    color: red;
+}
