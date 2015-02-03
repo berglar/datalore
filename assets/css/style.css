@@ -243,8 +243,15 @@ r}
 
 /* Portfolio Wrap */
 #portfoliowrap {
-	padding-top: 60px;
-	margin-bottom: 60px;
+	padding-top: 20px;
+	margin-bottom: 0px;
+padding: 100px;
+	
+}
+
+#portfoliowrap1 {
+	padding-top: 20px;
+	margin-bottom: 0px;
 padding: 100px;
 	
 }
@@ -262,7 +269,7 @@ padding: 100px;
 
 #lifecodewrap h1{
 
-	padding-top:10px;
+	padding-top:60px;
 }
 
 #technologywrap {
@@ -327,11 +334,12 @@ padding: 100px;
 	text-align:center;
 }
 
+
 /* Testimonials Wrap */
 #twrap {
 	background: no-repeat center top;
 	margin-top: 0px;
-	padding-top:60px;
+	padding-top:100px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
@@ -373,20 +381,31 @@ padding: 100px;
 	margin-bottom: 60px;
 }
 
+#cwrap hr {
+
+width:100%;
+border-width: 2px;
+
+}
+
+
+
+
 /* Footer */
 #footerwrap {
 	padding-top: 60px;
 	padding-bottom: 60px;
-	background: #1E1E1E;
+	background: yellow;
+	width: 100%;
 }
 
 #footerwrap p {
-	color: #ffffff;
+	color: #1E1E1E;
 	padding-bottom: 30px;
 }
 
 #footerwrap h4 {
-	color: white;
+	color: #1E1E1E;
 	padding-bottom: 20px;
 }
 
